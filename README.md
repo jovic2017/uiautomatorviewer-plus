@@ -5,5 +5,7 @@
 ![image](https://github.com/user-attachments/assets/99f95f65-ee16-4085-9733-5b057770e210)
 Next, let's take a look currently implemented functions, from left to right: system settings, Step adding and modifying, waiting for elements to appear, clicking on elements, saving text, input text, adding assertions, deleting nodes, generating code, refreshing test cases and Debug tool
 ![image](https://github.com/user-attachments/assets/fab44e36-9b54-4387-8059-b07eb5b41163)
+### System settings, which can set the generated class names, debug servers, code templates and output paths, and finally test data.
+![image](https://github.com/user-attachments/assets/532ade47-d02e-4324-a97e-943afc97c1e1)
 
 
