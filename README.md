@@ -32,5 +32,12 @@ Next, let's take a look currently implemented functions, from left to right: sys
 ![image](https://github.com/user-attachments/assets/bb0c68a4-c8e2-449c-ab7b-709a04bc5c2c)
 
 
+# If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com
+# Or you can add my Wechat
+![image](https://github.com/user-attachments/assets/d66bb5bf-1ec5-47db-9e7a-743744b16f8d)
+# Or you can add my Skype
+![image](https://github.com/user-attachments/assets/4c04698d-0c90-4769-8320-6a48fc8c82b7)
+# Or you can add my Alipay
+![image](https://github.com/user-attachments/assets/d3c64688-ab3e-481d-b4c3-f91cf5f40dd1)
 
 
