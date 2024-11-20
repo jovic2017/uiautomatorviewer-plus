@@ -3,6 +3,7 @@
 ### Notice: This tool base on this bdd framework https://github.com/jovic2017/MobileBDD
 ![image](https://github.com/user-attachments/assets/a171b620-3c2b-4edf-b0a7-739ba7580820)
 ![image](https://github.com/user-attachments/assets/99f95f65-ee16-4085-9733-5b057770e210)
-
+Next, let's take a look currently implemented functions, from left to right: system settings, Step adding and modifying, waiting for elements to appear, clicking on elements, saving text, input text, adding assertions, deleting nodes, generating code, refreshing test cases and Debug tool
+![image](https://github.com/user-attachments/assets/fab44e36-9b54-4387-8059-b07eb5b41163)
 
 
